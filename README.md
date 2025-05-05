@@ -99,12 +99,6 @@ This project is a **To-Do List Management Web Application** developed using **Fl
   - Flask
   - mysql-connector-python
 
-Install dependencies using:
-
-```bash
-pip install flask mysql-connector-python
-```
-
 ### Installation
 
 1. Clone the repository.
