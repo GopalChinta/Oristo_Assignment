@@ -103,7 +103,7 @@ This project is a **To-Do List Management Web Application** developed using **Fl
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/Devil-lucifer0402/oritso-assignment
+   git clone https://github.com/GopalChinta/Oritso-Assignment
    ```
 2. Configure database credentials in `config.py`
 
