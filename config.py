@@ -1,7 +1,7 @@
 # Database configuration
 DB_CONFIG = {
-    'host': 'localhost',
     'user': 'root',
-    'password': '',
-    'database': 'oritso'
+    'password': '',           # your MySQL root password if any
+    'host': 'localhost',
+    'database': 'oritso'      # must match the database name
 }
